@@ -148,7 +148,7 @@ real-time-collaboration-tool/
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/subhrajitbehera2021/real-time-collaboration-tool.git>
 ```
 
 ## Backend Setup
